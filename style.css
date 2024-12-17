@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: sans-serif;
+    color:white;
+    font-weight: 100;
+    background-color: black;
+}
+.outbox{
+    width: 1728px;
+    height: 1117px;
+    padding: 154px 0 0 198px;
+    
+}
+.inline{
+    width: 1181px;
+    height: 712px;
+
+}
+h1{
+    padding-bottom: 30px;
+}
+
+input{
+    background-color: black;
+     color: white;
+    border: none;
+    font-size: 15px;
+    outline: none;
+    width: 90%;
+    padding-bottom: 10px;
+}
+input::placeholder{
+    color: white;
+    opacity: 1;
+}
+
+hr{
+    margin-bottom: 5px;
+}
+label input{
+    padding: 0px;
+    width: auto;
+    margin-bottom: 20px;
+}
+label{
+    margin-right: 100px;
+}
+
+button{
+    font-size: 20px;
+    margin: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: white;
+    border: none;
+}
+
